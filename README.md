@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kreamis
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java 
+- 📫 How to reach me on instagram michal.sevcik07
